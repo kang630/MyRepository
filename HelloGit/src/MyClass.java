@@ -3,6 +3,7 @@ public class MyClass {
 	public static void main(String args[]) {
 		System.out.println("Hello Git");
 		System.out.println("Ths is 2nd version");
+		System.out.println("OK~");
 		new MyHello().sayHello();
 	}
 }
